@@ -125,7 +125,7 @@ public class NearestHospital extends FragmentActivity implements OnMapReadyCallb
 
                 String yer = "hastane";
 
-                String adres = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location="+ enlem + "," + boylam +"&radius=5000&keyword=" + yer + "&key=AIzaSyB50gnEGdJyo7Kps9vrDJsP5ISC3-VCcvY";
+                String adres = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location="+ enlem + "," + boylam +"&radius=5000&keyword=" + yer + "&key=YOUR_KEY_HERE";
 
                 LatLng koordinat = new LatLng(enlem,boylam);
                 mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(koordinat,12));
