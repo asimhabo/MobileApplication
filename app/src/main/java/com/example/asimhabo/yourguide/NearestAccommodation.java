@@ -128,7 +128,7 @@ public class NearestAccommodation extends FragmentActivity implements OnMapReady
 
                 String yer = "yurt";
 
-                String adres = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location="+ enlem + "," + boylam +"&radius=5000&keyword=" + yer + "&key=AIzaSyBgJEU5509dn1_KUCFjOce_8MIdrE00YK0";
+                String adres = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location="+ enlem + "," + boylam +"&radius=5000&keyword=" + yer + "&key=YOUR_KEY_HERE";
 
                 LatLng koordinat = new LatLng(enlem,boylam);
                 mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(koordinat,12));
