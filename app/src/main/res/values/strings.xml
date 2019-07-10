@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Your Guide</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_view_on_map">Map</string>
+    <string name="title_activity_journey_planner">Map</string>
+    <string name="title_activity_nearest_hospital">Map</string>
+    <string name="title_activity_nearest_restaurants">Map</string>
+    <string name="title_activity_nearest_accommodation">Map</string>
+    <string name="title_activity_journeytohere">Map</string>
+
+
+    <string-array name="route_names">
+        <item>78U</item>
+        <item>5000U</item>
+        <item>27B</item>
+        <item>15S</item>
+    </string-array>
+
+    <string-array name="stop_names">
+        <item>ÜNİVERSİTE(YILDIZ)</item>
+        <item>KASTAMONU KAVŞAĞI</item>
+        <item>TERMİNAL</item>
+        <item>BALIK PAZARI</item>
+        <item>KÖPRÜ BAŞI</item>
+        <item>KAYABAŞI</item>
+        <item>AYDINLIKEVLER</item>
+
+        <item>ÜNİVERSİTE(YILDIZ)</item>
+        <item>100. YIL</item>
+        <item>YUNUS EMRE</item>
+        <item>5000EVLER GİRİŞ</item>
+        <item>ŞAHİN TEPESİ</item>
+        <item>5000EVLER ALT GEÇİT</item>
+        <item>ÜNİVERSİTE GİRİŞ</item>
+
+        <item>NECATİ İSMAİL EFENDİ KYK</item>
+        <item>BOSTANBÜKÜ KATİP ÇELEBİ</item>
+        <item>KILAVUZLAR BAHATTİN GAZİ</item>
+        <item>KBÜ ÜNİVERSİTE</item>
+        <item>KBÜ KAMPÜS(YILDIZ)</item>
+        <item>EMNİYET MÜDÜRLÜĞÜ</item>
+        <item>HUBBİ HATUN KYK</item>
+
+        <item>SAFRANBOLU-ÇARŞI</item>
+        <item>YENİŞEHİR</item>
+        <item>EMEK</item>
+        <item>KIRANKÖY</item>
+        <item>G.BAŞI</item>
+        <item>KÖY İÇİ</item>
+        <item>M. EVLERİ</item>
+        <item>ÇARŞI</item>
+    </string-array>
+
+    <string-array name="first_stops">
+        <item>ÜNİVERSİTE(YILDIZ)</item>
+        <item>KASTAMONU KAVŞAĞI</item>
+        <item>TERMİNAL</item>
+        <item>BALIK PAZARI</item>
+        <item>KÖPRÜ BAŞI</item>
+        <item>KAYABAŞI</item>
+        <item>AYDINLIKEVLER</item>
+    </string-array>
+
+    <string-array name="second_stops">
+        <item>ÜNİVERSİTE(YILDIZ)</item>
+        <item>100. YIL</item>
+        <item>YUNUS EMRE</item>
+        <item>5000EVLER GİRİŞ</item>
+        <item>ŞAHİN TEPESİ</item>
+        <item>5000EVLER ALT GEÇİT</item>
+        <item>ÜNİVERSİTE GİRİŞ</item>
+    </string-array>
+
+    <string-array name="third_stops">
+        <item>NECATİ İSMAİL EFENDİ KYK</item>
+        <item>BOSTANBÜKÜ KATİP ÇELEBİ</item>
+        <item>KILAVUZLAR BAHATTİN GAZİ</item>
+        <item>KBÜ ÜNİVERSİTE</item>
+        <item>KBÜ KAMPÜS(YILDIZ)</item>
+        <item>EMNİYET MÜDÜRLÜĞÜ</item>
+        <item>HUBBİ HATUN KYK</item>
+    </string-array>
+
+    <string-array name="fourth_stops">
+        <item>SAFRANBOLU-ÇARŞI</item>
+        <item>YENİŞEHİR</item>
+        <item>EMEK</item>
+        <item>KIRANKÖY</item>
+        <item>G.BAŞI</item>
+        <item>KÖY İÇİ</item>
+        <item>M. EVLERİ</item>
+        <item>ÇARŞI</item>
+    </string-array>
+
+</resources>

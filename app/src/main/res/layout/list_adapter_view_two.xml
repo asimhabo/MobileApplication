@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="40sp"
+    android:paddingRight="15dp">
+
+    <TextView
+        android:id="@+id/routeName"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="23sp"
+        android:layout_weight="10"/>
+
+    <TextView
+        android:id="@+id/textDescription"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textColor="@color/divider"
+        android:textSize="23sp"
+        android:layout_weight="10"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="15dp"
+        android:textStyle="bold"
+        android:textSize="23sp"
+        android:textAlignment="center"
+        android:textColor="@color/colorBackground"
+        android:text="Route Names"/>
+
+    <TextView
+        android:id="@+id/textStopOne"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="15dp"
+        android:textAlignment="center"
+        android:textColor="@color/colorBackground"
+        android:textSize="23sp"
+        android:layout_weight="10"/>
+
+    <TextView
+        android:id="@+id/textStopTwo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="15dp"
+        android:textAlignment="center"
+        android:textColor="@color/colorBackground"
+        android:textSize="23sp"
+        android:layout_weight="10"/>
+
+    <TextView
+        android:id="@+id/textStopThree"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="15dp"
+        android:textAlignment="center"
+        android:textColor="@color/colorBackground"
+        android:textSize="23sp"
+        android:layout_weight="10"/>
+
+    <TextView
+        android:id="@+id/textStopFour"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="15dp"
+        android:textAlignment="center"
+        android:textColor="@color/colorBackground"
+        android:textSize="23sp"
+        android:layout_weight="10"/>
+
+    <TextView
+        android:id="@+id/textStopFive"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="15dp"
+        android:textAlignment="center"
+        android:textColor="@color/colorBackground"
+        android:textSize="23sp"
+        android:layout_weight="10"/>
+
+    <TextView
+        android:id="@+id/textStopSix"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="15dp"
+        android:textAlignment="center"
+        android:textColor="@color/colorBackground"
+        android:textSize="23sp"
+        android:layout_weight="10"/>
+
+    <TextView
+        android:id="@+id/textStopSeven"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="15dp"
+        android:textAlignment="center"
+        android:textColor="@color/colorBackground"
+        android:textSize="23sp"
+        android:layout_weight="10"/>
+
+</LinearLayout>

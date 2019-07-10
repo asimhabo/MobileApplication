@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="ninja_icons">
+        <item>@drawable/uzumaki</item>
+        <item>@drawable/leaf_ninja</item>
+        <item>@drawable/sasuke_mangekyo_symbol</item>
+        <item>@drawable/uchiha_symbol</item>
+        <item>@drawable/kakashi_mangekyo_symbol</item>
+    </array>
+
+</resources>

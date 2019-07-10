@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/placesOfInterest"
+            android:icon="@drawable/ic_places"
+            android:title="Places Of Interest" />
+        <item
+            android:id="@+id/myNextBus"
+            android:icon="@drawable/ic_bus"
+            android:title="My Next Bus" />
+        <item
+            android:id="@+id/journeyPlanner"
+            android:icon="@drawable/ic_bus"
+            android:title="Journey Planner" />
+        <item
+            android:id="@+id/favourites"
+            android:icon="@drawable/ic_favourite"
+            android:title="Favourites" />
+        <item
+            android:id="@+id/contactUs"
+            android:icon="@drawable/ic_contact"
+            android:title="Contact Us" />
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_about"
+            android:title="About" />
+    </group>
+
+</menu>
